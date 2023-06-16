@@ -1,7 +1,7 @@
 # javuBot 
 
 ## Overview
-javuBot is an Open Source project meant to be a serverless tool, running on aws, for helping Data Engineers in some repetitive tasks they do everyday. The first step is going to be the creation of a notification service from AWS Step Functions to a Slack channel.
+javuBot is an Open Source project meant to be a set of serverless tools, running on aws, for helping Data Engineers in some repetitive tasks they do everyday. The first step is going to be the creation of a notification service from AWS Step Functions to a Slack channel.
 
 ## Step 1 - AWS Step Functions Slack Notifications
 the base code for an integration between AWS Step Functions and Slack. Specially thought for Data Engineers who need to comunicate the progress, failures and successes of the ETLs they make.
