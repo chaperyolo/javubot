@@ -6,7 +6,7 @@ javuBot is an Open Source project meant to be a set of serverless tools, running
 
 ## Step 1 - AWS Step Functions Slack Notifications
 
-The base code for an integration between AWS Step Functions and Slack. Specially thought for Data Engineers who need to comunicate the progress, failures and successes of the ETLs they make.
+The base code for an integration between AWS Step Functions and Slack. Specially thought for Data Engineers using AWS Step Functions who need to comunicate the progress, failures and successes of the ETLs they make.
 
 Primarly based on what was done [here](https://www.fortisoft.io/send-your-aws-step-functions-execution-result-to-slack/), thank you guys at fortisoft!
 
